@@ -2,7 +2,8 @@
 import java.util.Scanner;
 
 public class HoroscopeFinder {
-    public static void main(String[] args) {
+   
+   public static void main(String[] args) {
         int m, d;
         Scanner input = new Scanner(System.in);
         System.out.println("What Is Your Birth Mont?");

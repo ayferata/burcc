@@ -1,6 +1,6 @@
 # burcc
 
-//@author EmreHatip
+
 
 import java.util.Scanner;
 

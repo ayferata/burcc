@@ -1,6 +1,5 @@
 # burcc
 import java.util.Scanner;
-
 public class HoroscopeFinder {
     public static void main(String[] args) {
         int m, d;
